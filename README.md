@@ -1,4 +1,4 @@
-# # Two-Stage Operational Amplifier Design with Miller Compensation and Nulling Resistor
+# Optimization Strategy For Two Stage Op-amp
 
 ## Overview
 This project involves the design of a two-stage operational amplifier (opamp) enhanced with Miller compensation and a nulling resistor to improve stability and performance. The design and simulation were carried out using Cadence Virtuoso.
